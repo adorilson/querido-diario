@@ -171,7 +171,6 @@ Aqui está uma lista completa de toda a documentação disponível na pasta `doc
 
 - [Código de Conduta](docs/CODE_OF_CONDUCT.md) | [Código de Conduta (EN)](docs/CODE_OF_CONDUCT-en-US.md)
 - [Guia de Contribuição](docs/CONTRIBUTING.md) | [Guia de Contribuição (EN)](docs/CONTRIBUTING-en-US.md)
-- [README (EN)](README-en-US.md)
 - [Suporte](docs/SUPPORT.md) | [Suporte (EN)](docs/SUPPORT-en-US.md)
 - [Solução de Problemas](docs/TROUBLESHOOTING.md) | [Solução de Problemas (EN)](docs/TROUBLESHOOTING-en-US.md)
 
